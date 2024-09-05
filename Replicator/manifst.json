@@ -1,0 +1,23 @@
+{
+  "name": "Replicator",
+  "short_description": "Duplica cards existentes no Pipefy.",
+  "description": "Este Power-Up permite duplicar cards com todos os seus campos e informações, criando uma cópia exata no mesmo pipe.",
+  "version": "1.0.0",
+  "platform": "pipefy",
+  "icons": {
+    "icon_16": "https://your-server.com/icons/icon16.png",
+    "icon_32": "https://your-server.com/icons/icon32.png",
+    "icon_64": "https://your-server.com/icons/icon64.png",
+    "icon_128": "https://your-server.com/icons/icon128.png"
+  },
+  "settings": {
+    "oauth": false
+  },
+  "scripts": {
+    "cardButton": {
+      "url": "https://your-server.com/duplicate-card",
+      "height": 400,
+      "width": 600
+    }
+  }
+}
