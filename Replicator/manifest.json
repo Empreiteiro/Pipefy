@@ -10,9 +10,10 @@
   "settings": {
     "oauth": false
   },
+  
   "scripts": {
     "cardButton": {
-      "url": "https://your-server.com/duplicate-card",
+      "url": "https://brave-lemons-open.loca.lt",
       "height": 400,
       "width": 600
     }
