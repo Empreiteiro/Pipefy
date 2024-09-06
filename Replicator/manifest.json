@@ -5,10 +5,10 @@
   "version": "1.0.0",
   "platform": "pipefy",
   "icons": {
-    "icon_16": "https://drive.google.com/uc?export=view&id=1MpmKcq5N-4CBU7kIcfw7o6QpAeLR2afx.png",
-    "icon_32": "https://drive.google.com/uc?export=view&id=1MpmKcq5N-4CBU7kIcfw7o6QpAeLR2afx.png",
-    "icon_64": "https://drive.google.com/uc?export=view&id=1MpmKcq5N-4CBU7kIcfw7o6QpAeLR2afx.png",
-    "icon_128": "https://drive.google.com/uc?export=view&id=1MpmKcq5N-4CBU7kIcfw7o6QpAeLR2afx.png"
+    "icon_16": "https://drive.google.com/uc?export=view&id=1uz40ivBGNx3H4475aGPaNxkL2nY-ItX1",
+    "icon_32": "https://drive.google.com/uc?export=view&id=1v2V52AC8FOPgn3pxtABFALN3bn8Manzc",
+    "icon_64": "https://drive.google.com/uc?export=view&id=1v5mq0R_goyI3DLDIc1DdqWZyL-BCaVIE",
+    "icon_128": "https://drive.google.com/uc?export=view&id=1v62weq9DM3E5U-TaGGBSQnXACQTY-7wx"
   },
   "settings": {
     "oauth": false
