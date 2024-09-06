@@ -4,7 +4,7 @@
   "description": "Este Power-Up permite duplicar cards com todos os seus campos e informações, criando uma cópia exata no mesmo pipe.",
   "version": "1.0.0",
   "platform": "pipefy",
-  "icon": "https://github.com/Empreiteiro/Pipefy/blob/main/Replicator/Logo64.png"
+  "icon": "https://cdn.glitch.global/24ff3489-e081-4906-8140-cb187c170288/Logo64.png?v=1725587773405"
   "author": "Democh, Lucas"
   
   "settings": {
