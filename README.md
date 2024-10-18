@@ -1,3 +1,1 @@
-Tecnologias Utilizadas:
-- python
-- graphql
+
