@@ -1,2 +1,3 @@
 *.gql linguist-language=GraphQL
+*.graphql linguist-language=GraphQL
 *.py linguist-language=Python
