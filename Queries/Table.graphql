@@ -1,0 +1,13 @@
+{   table(id:"XXXXXX")      
+{     
+id     
+name     
+table_records_count	       
+members
+{user      
+{name}     
+}  	   table_fields {     
+  id 
+  label     
+  type    	   
+}      }         } 
