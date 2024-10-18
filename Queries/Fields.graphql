@@ -1,1 +1,28 @@
-
+{
+  pipe (id: XXXXXXXX) {
+    id
+    name
+    start_form_fields {
+      label
+      id
+    }
+    labels {
+      name 
+      id
+    }
+    phases {
+      name
+      fields {
+        label
+        id
+    }
+      cards (first: 1) {
+        edges{
+          node{
+            id
+            title
+          }
+        }      
+      }         
+    }
+  }}
